@@ -9,6 +9,8 @@ print(3>2 or 34<4)
 #and
 print(not(24>56))
 print(not(24>56 or 3<5))
+#===================================================================
+
 
 # membership operator
 # in , not in 
@@ -27,6 +29,8 @@ print("5"  not in string2)#f
 # is , is not
 # is operator gives true when we test for same object.
 # otherwise False.
+#=================================================================
+
 
 # variables data type in python 
 # variable/ refrences :
@@ -38,4 +42,4 @@ num3 = 90
 print(id(num))
 print(id(num2))
 print(id(num3))
-# 
+# #####################
